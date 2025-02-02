@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Birthday Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7b30db602846825a1b221b48db086ae1871b6a66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d1ec7eafd75732ed2d0b938cd53746c632eacbde")]
 [assembly: System.Reflection.AssemblyProductAttribute("Birthday Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Birthday Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
