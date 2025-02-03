@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|c:\\users\\kaiha\\onedrive\\documents\\github\\birthday-manager\\birthday manager\\birthday manager\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|solutionrelative:birthday manager\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|c:\\users\\kaiha\\onedrive\\documents\\github\\birthday-manager\\birthday manager\\birthday manager\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|solutionrelative:birthday manager\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|c:\\users\\kaiha\\onedrive\\documents\\github\\birthday-manager\\birthday manager\\birthday manager\\birthday manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|solutionrelative:birthday manager\\birthday manager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|c:\\users\\kaiha\\onedrive\\documents\\github\\birthday-manager\\birthday manager\\birthday manager\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|solutionrelative:birthday manager\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|c:\\users\\kaiha\\onedrive\\documents\\github\\birthday-manager\\birthday manager\\birthday manager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471BD8E5-9F5A-4653-B054-BA661474C9BF}|Birthday Manager\\Birthday Manager.csproj|solutionrelative:birthday manager\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Birthday Manager.csproj",
-              "DocumentMoniker": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\Birthday Manager.csproj",
-              "RelativeDocumentMoniker": "Birthday Manager\\Birthday Manager.csproj",
-              "ToolTip": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\Birthday Manager.csproj",
-              "RelativeToolTip": "Birthday Manager\\Birthday Manager.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T09:39:16.41Z",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Birthday Manager\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\MainPage.xaml",
+              "RelativeToolTip": "Birthday Manager\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T00:29:58.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Birthday Manager\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\MauiProgram.cs",
-              "RelativeToolTip": "Birthday Manager\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Birthday Manager\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\MainPage.xaml.cs",
+              "RelativeToolTip": "Birthday Manager\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T09:37:59.9Z",
+              "WhenOpened": "2025-02-03T00:23:47.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Birthday Manager\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\kaiha\\OneDrive\\Documents\\GitHub\\Birthday-Manager\\Birthday Manager\\Birthday Manager\\AppShell.xaml",
+              "RelativeToolTip": "Birthday Manager\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T00:16:21.226Z",
               "EditorCaption": ""
             }
           ]
